@@ -1,0 +1,6 @@
+{
+  "name": "PetnanAI",
+  "description": "An intelligent AI assistant featuring real-time Wikipedia search grounding and a built-in mathematical engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
